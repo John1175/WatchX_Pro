@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=SW1 Old Footprint=TSW 3*6*4.3-S-W New Footprint=TSW 4.6*1.82*3.5-S-W
+Change Component Footprint: Designator=SW2 Old Footprint=TSW 3*6*4.3-S-W New Footprint=TSW 4.6*1.82*3.5-S-W
+Change Component Footprint: Designator=SW3 Old Footprint=TSW 3*6*4.3-S-W New Footprint=TSW 4.6*1.82*3.5-S-W
+Change Component Footprint: Designator=SW4 Old Footprint=TSW 3*6*4.3-S-W New Footprint=TSW 4.6*1.82*3.5-S-W
+Change Component Footprint: Designator=SW5 Old Footprint=TSW 3*6*4.3-S-W New Footprint=TSW 4.6*1.82*3.5-S-W
+Added Member To Class: ClassName=Designator Member=Component D3 1N5819
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
