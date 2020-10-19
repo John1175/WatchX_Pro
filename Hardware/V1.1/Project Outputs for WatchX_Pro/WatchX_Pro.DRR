@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WatchX_Pro.PcbDoc   2020/10/14  20:20:43
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WatchX_Pro-RoundHoles.TXT
+ASCII SlotHoles File : WatchX_Pro-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.203mm)                                            Round             105       PTH        0.00inch (0.00mm)
+T2      10mil (0.254mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      12mil (0.305mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T4      20mil (0.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T5      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T6      32mil (0.8mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T7      35mil (0.9mm)                                             Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              134
+
+Total Processing Time (hh:mm:ss) : 00:00:00

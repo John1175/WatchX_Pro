@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [WatchX_Pro.PrjPCB]
+   Generated File[WatchX_Pro.GTO]
+   Generated File[WatchX_Pro.GTP]
+   Generated File[WatchX_Pro.GTS]
+   Generated File[WatchX_Pro.GTL]
+   Generated File[WatchX_Pro.GBL]
+   Generated File[WatchX_Pro.GBS]
+   Generated File[WatchX_Pro.GBP]
+   Generated File[WatchX_Pro.GBO]
+   Generated File[WatchX_Pro.GM1]
+   Generated File[WatchX_Pro.GM13]
+   Generated File[WatchX_Pro.GM15]
+   Generated File[WatchX_Pro.GM16]
+   Generated File[WatchX_Pro.GPT]
+   Generated File[WatchX_Pro.GPB]
+   Generated File[WatchX_Pro.RUL]
+   Generated File[WatchX_Pro.EXTREP]
+   Generated File[WatchX_Pro.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 20:21:44 On 2020/10/14
